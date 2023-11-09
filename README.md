@@ -12,7 +12,7 @@
     App built with React and API.
     <br />
     <br />
-    <a href="https://jazzy-queijadas-5bb9d6.netlify.app/">View project live on Netlify</a>
+    <a href="https://majestic-mandazi-f99cde.netlify.app/">View project live on Netlify</a>
   </p>
 </div>
 
